@@ -955,7 +955,7 @@ footer >.footer > p{
         display: flex;
         flex-direction: column;
         flex-wrap: nowrap;
-        gap: 15px;
+        gap: 30px;
     }
 
     #projects>.container>.card {
